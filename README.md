@@ -32,77 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global digital advertising market is estimated at approximately **$600B–$740B** (projected to surpass $1T+ by 2030), characterized by a dual market structure: **highly concentrated** at the infrastructure layer where a "walled-garden" oligopoly (Google, Meta, and Amazon) commands the vast majority of digital ad revenues, yet **moderately-to-highly fragmented** at the campaign execution, multi-channel attribution, and tooling layer where specialized SaaS platforms and point solutions compete to optimize cross-channel media spend.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Google Ads**
-
-  **Search, display, video, and shopping advertising** on Google's network. **Pricing**: Auction-based; pay per click or impression. **Free tier**: None (ad spend required). **Best for**: businesses wanting access to Google's search intent data—**trade-off**: complexity across campaign types; costs scale with competition.
-
-
-
-- **Meta Ads Manager**
-
-  **Facebook and Instagram advertising** with detailed targeting and creative formats. **Pricing**: Auction-based; pay per impression or action. **Free tier**: None. **Best for**: social advertising with granular audience targeting—**trade-off**: iOS privacy changes reduced attribution accuracy.
-
-
-
-- **HubSpot Ad Management**
-
-  **Ad campaign management** within HubSpot CRM. **Pricing**: Included with Marketing Hub Professional ($890/month) and Enterprise. **Free tier**: Limited. **Best for**: HubSpot users wanting ad ROI tied to CRM contacts—**trade-off**: limited to Google, LinkedIn, and Facebook; no programmatic.
-
-
-
-- **Marin Software**
-
-  **Cross-channel advertising management** for search, social, and retail media. **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises managing large cross-channel budgets—**trade-off**: enterprise pricing; implementation complexity.
-
-
-
-- **Skai**
-
-  **Omnichannel advertising platform** for retail media and paid search. **Pricing**: Quote-only. **Free tier**: None. **Best for**: retailers and brands managing retail media networks—**trade-off**: sales-led; enterprise focus.
-
-
-
-- **Smartly.io**
-
-  **Creative automation and social advertising** platform. **Pricing**: Quote-only. **Free tier**: None. **Best for**: brands producing high volumes of social creative—**trade-off**: creative-focused; not full cross-channel.
-
-
-
-- **RollWorks**
-
-  **Account-based advertising** for B2B. **Pricing**: Quote-only. **Free tier**: None. **Best for**: B2B teams targeting specific accounts—**trade-off**: ABM-focused; limited to B2B use cases.
-
-
-
-- **AdRoll**
-
-  **Retargeting and display advertising** for SMBs. **Pricing**: Usage-based; quote for managed service. **Free tier**: Trial available. **Best for**: SMBs wanting simple retargeting—**trade-off**: limited to display and social retargeting.
-
-
-
-- **WordStream**
-
-  **PPC management software** with Google Ads optimization. **Pricing**: Quote-only. **Free tier**: Free Google Ads Grader tool. **Best for**: SMBs wanting guided PPC management—**trade-off**: Google-focused; limited multi-platform.
-
-
-
-- **Perpetua**
-
-  **Amazon advertising optimization** platform. **Pricing**: Quote-only. **Free tier**: None. **Best for**: Amazon sellers and vendors—**trade-off**: Amazon-only; not for general digital advertising.
+| Product | Company Size (Valuation / Revenue) | Starting Pricing Tier | Free Tier / Free Trial Limits | Key Focus & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **Google Ads** | ~$2.1T Market Cap / $260B+ Ad Revenue (Alphabet) | $0 platform fee; pay-per-click/impression auction ($5/day recommended starter spend) | Free to create account; eligible new accounts get a $500 matched ad credit (must spend $500 within 60 days, credit expires in 60 days) | Search, display, video (YouTube), and shopping ads powered by Google's global search intent and algorithmic bidding. |
+| **Meta Ads Manager** | ~$1.5T Market Cap / $160B+ Ad Revenue (Meta Platforms) | $0 platform fee; pay-per-impression auction ($1–$5/day minimum ad spend depending on objective) | Free access to platform and audience tools; no free ad spend tier or public trial (periodic targeted $5–$50 partner credits only) | Facebook, Instagram, and WhatsApp ad campaigns with granular demographic and algorithmic audience targeting. |
+| **HubSpot Ad Management** | ~$32B Market Cap / $2.6B Revenue (HubSpot) | Free tier available; Starter at $15/seat/month; advanced ad management in Marketing Hub Pro at $890/month | Free forever plan includes ad management connecting up to 2 ad accounts (Google, Facebook, LinkedIn) with basic tracking | Native ad management integrated directly with HubSpot CRM to tie campaign ROI directly to lifecycle contacts and deals. |
+| **Perpetua** | $835M Acquisition (Division of Omnicom / Flywheel) | $695/month (Essentials plan covering up to $10,000 monthly ad spend) | No self-serve free trial; guided 1-on-1 personalized platform demo available | AI-driven Amazon, Walmart, and Target marketplace advertising optimization, programmatic DSP, and bid automation. |
+| **NextRoll (AdRoll)** | ~$580M Peak Valuation / ~$100M+ Revenue | $36/month (Starter tier for single-channel display/social retargeting + ad spend) | 30-day free trial; free tier available at $0/month platform fee for basic tracking pixel setup & up to 2,500 email contacts (media spend billed separately) | Cross-channel retargeting, display, and social advertising automation tailored for direct-to-consumer and SMB brands. |
+| **NextRoll (RollWorks)** | ~$580M Peak Valuation / ~$100M+ Revenue | $975/month (~$11,700/year annual commitment for ABM Starter + media spend) | No free trial; free tier includes basic self-serve retargeting pixel setup; advanced ABM & intent features require custom demo/paid plan | B2B account-based marketing (ABM) and account-based advertising platform connecting target accounts with CRM data. |
+| **Skai** | ~$450M Valuation / ~$100M+ Revenue | $9,500/month ($114,000/year billed annually on Standard tier for up to $4M annual ad spend) | No free trial; offers custom platform walk-through and 90-day review checkpoint on annual contracts | Enterprise omnichannel advertising platform connecting retail media networks, search, and paid social with predictive analytics. |
+| **Smartly.io** | €300M (~$330M) Valuation / €70M+ Revenue | ~$4,000–$5,000/month minimum platform fee (or 3%–5% of managed ad spend, whichever is greater) | No free trial or self-serve tier; demo-based onboarding with strict annual enterprise commitments | Enterprise dynamic creative automation and performance social advertising across Meta, TikTok, Pinterest, and Google. |
+| **WordStream** | Subsidiary of Gannett / LocaliQ (~$600M Market Cap) | ~$244/month (or custom bundles starting at ~$500/month with LocaliQ digital marketing services) | No software free trial; provides unlimited free forever standalone tools (Google Ads Performance Grader and Free Keyword Tool) | Guided PPC management, automated account audits, and cross-channel campaign suggestions for SMBs and local businesses. |
+| **Marin Software** | ~$2.8M Market Cap / ~$17.5M Revenue (MRIN) | $500/month (Connect tier with month-to-month terms; Ascend at $1,000/month; One at $2,000/month) | 30-day free trial / sandbox account available for testing publisher and data feed integrations | Cross-channel enterprise campaign management, budget allocation, and bidding optimization for search, social, and retail media. |
 
 
 
