@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Digital-Advertising-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Advertising-Management?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Advertising-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Advertising-Management?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Digital-Advertising-Management/forks"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Advertising-Management?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Digital-Advertising-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" /></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,7 +64,7 @@ The global digital advertising management sector represents a **$600B–$740B+ m
 
 ## 💻 Open-Source AdTech & GitHub Repositories
 
-*Sorted by GitHub Star count (descending). Each star badge links directly to the stargazers page of that repository.*
+*Sorted by GitHub Stars_Count (descending). Each Stars_Badge links directly to the stargazers page of that repository.*
 
 ### 1. [Ryze AI Google Ads & Meta Ads MCP](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp) [![Stars](https://img.shields.io/github/stars/irinabuht12-oss/google-ads-meta-ads-mcp?style=social&color=white)](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp/stargazers)
 - **License**: MIT
@@ -147,7 +147,7 @@ We welcome additions, corrections, and reviews from marketers, adtech engineers,
 2. **Add/Edit** entries in [README.md](README.md) following the established table or card format.
 3. **Verify criteria**:
    - For SaaS tools: Specify realistic starting price tiers, explicit free tier / trial constraints, and verified revenue or valuation figures.
-   - For Open-Source projects: Include direct repository links, SPDX license, star badge with `style=social&color=white` linking to the stargazers page, and core capabilities.
+   - For Open-Source projects: Include direct repository links, SPDX license, Stars_Badge with `style=social&color=white` linking to the stargazers page, and core capabilities.
 4. **Submit a Pull Request** with a descriptive summary of your changes.
 
 ---
